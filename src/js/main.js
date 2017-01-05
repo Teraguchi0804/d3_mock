@@ -1,6 +1,6 @@
 var d3 = require("d3");
 
-var dataSet = [300, 130, 5, 60, 240];
+var dataSet = [300, 140, 5, 60, 240];
 
 d3.select("#myGraph")
     .selectAll("rect")
